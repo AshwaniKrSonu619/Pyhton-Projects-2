@@ -1,2 +1,1 @@
-# Pyhton-Projects-2
-car fare calculator
+# Pyhton-Projects
